@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "issue-aiscript-node-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@syuilo/aiscript": "^0.15.0"
+  }
+}
